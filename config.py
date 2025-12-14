@@ -63,7 +63,7 @@ NSFW_KEYWORDS = [
     'sh1t', 'btch', 'cnt', 'fkng', 'sxy', 'hrny',
     
     # Inappropriate requests/commands
-    'show me', 'send me', 'trade pics', 'swap pics',
+    'trade pics', 'swap pics',
     'rate me', 'am i hot', 'do i look', 'sexy pic',
 ]
 
